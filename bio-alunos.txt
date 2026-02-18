@@ -6,3 +6,12 @@ Bairro: Itaquera
 Se trabalha: Trabalho com xxx | Não trabalho
 Objetivo: Atuar com Engenharia de Software
 -----
+
+Nome: Kauã Sanches de Souza Ferreira
+RA: 825154278
+Curso: Engenharia de Software
+Semestre: 3º Semestre
+Bairro: Pirituba
+Se trabalha: Trabalho com Comercial de Vendas de Seguros
+Objetivo: Atuar como Engnheiro de Software na minha carreira em bancos ou multinacionais
+-----

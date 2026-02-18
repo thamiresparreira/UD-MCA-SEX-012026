@@ -15,3 +15,12 @@ Bairro: Pirituba
 Se trabalha: Trabalho com Comercial de Vendas de Seguros
 Objetivo: Atuar como Engnheiro de Software na minha carreira em bancos ou multinacionais
 -----
+
+Nome: Gabrielly Gomes de Oliveira
+RA: 825160672
+Curso: Engenharia de Software
+Semestre: 3º Semestre
+Bairro: Vila Antonieta
+Se trabalha: Estagiária de Planejamentos Estratégicos na Ipiranga
+Objetivo: Atuar na area de desenvolvimento e tratamento de dados
+-----

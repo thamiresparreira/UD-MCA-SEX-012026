@@ -13,12 +13,29 @@ Semestre: 3º
 Bairro: Mauá
 Se trabalha: Atuo em Tecnologia da Informação, contribuindo com a gestão financeira e organização do recursos de TI.
 Objetivo: Atuar na área de Engenharia de Software.
------
-Nome: Thamires Parreira Ribeiro
-RA: 825110946
+Nome: Kauã Sanches de Souza Ferreira
+RA: 825154278
 Curso: Engenharia de Software
+Semestre: 3º Semestre
+Bairro: Pirituba
+Se trabalha: Trabalho com Comercial de Vendas de Seguros
+Objetivo: Atuar como Engnheiro de Software na minha carreira em bancos ou multinacionais
+-----
+
+Nome: Gabrielly Gomes de Oliveira
+RA: 825160672
+Curso: Engenharia de Software
+Semestre: 3º Semestre
+Bairro: Vila Antonieta
+Se trabalha: Estagiária de Planejamentos Estratégicos na Ipiranga
+Objetivo: Atuar na area de desenvolvimento e tratamento de dados
+-----
+
+Nome: Kauê Victor Faria de Jesus 
+RA: 825135270
+Curso: ENgenharia de Software 
 Semestre: 3º
-Bairro: Mauá
-Se trabalha: Atuo em Tecnologia da Informação, contribuindo com a gestão financeira e organização do recursos de TI.
-Objetivo: Atuar na área de Engenharia de Software.
+Bairro: Vila Formosa 
+Se trabalha: Trabalho com Digitalização de Documentos
+Objetivo: Atuar com Engenharia de Software
 

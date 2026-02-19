@@ -13,6 +13,7 @@ Semestre: 3º
 Bairro: Mauá
 Se trabalha: Atuo em Tecnologia da Informação, contribuindo com a gestão financeira e organização do recursos de TI.
 Objetivo: Atuar na área de Engenharia de Software.
+-----
 Nome: Kauã Sanches de Souza Ferreira
 RA: 825154278
 Curso: Engenharia de Software

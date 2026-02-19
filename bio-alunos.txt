@@ -5,7 +5,7 @@ Semestre: 5º
 Bairro: Itaquera
 Se trabalha: Trabalho com xxx | Não trabalho
 Objetivo: Atuar com Engenharia de Software
------
+----
 Nome: Thamires Parreira Ribeiro
 RA: 825110946
 Curso: Engenharia de Software

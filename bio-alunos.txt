@@ -1,7 +1,7 @@
-Nome: Tatu
-RA: 123456789
-Curso: Sistemas de Informação
-Semestre: 5º
-Bairro: Itaquera
-Se trabalha: Trabalho com xxx | Não trabalho
+Nome: Kauê Victor Faria de Jesus 
+RA: 825135270
+Curso: ENgenharia de Software 
+Semestre: 3º
+Bairro: Villa Formosa 
+Se trabalha: Trabalho com Digitalização de arquivos 
 Objetivo: Atuar com Engenharia de Software

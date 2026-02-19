@@ -38,4 +38,12 @@ Semestre: 3º
 Bairro: Vila Formosa 
 Se trabalha: Trabalho com Digitalização de Documentos
 Objetivo: Atuar com Engenharia de Software
+-----
+Nome: Matheus Barros 
+RA:825139347
+Curso: Engenharia de software 
+Semestre: 3
+Bairro: fazendo da juta 
+Trabalho com matérias não perecíveis
+ Objetivo: atuar em um banco
 

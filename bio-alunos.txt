@@ -3,5 +3,5 @@ RA: 825135270
 Curso: ENgenharia de Software 
 Semestre: 3º
 Bairro: Vila Formosa 
-Se trabalha: Trabalho com Digitalização e preparação de arquivos 
+Se trabalha: Trabalho com Digitalização de Documentos
 Objetivo: Atuar com Engenharia de Software

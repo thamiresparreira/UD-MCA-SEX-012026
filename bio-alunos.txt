@@ -1,7 +1,7 @@
-Nome: Tatu
-RA: 123456789
-Curso: Sistemas de Informação
-Semestre: 5º
-Bairro: Itaquera
-Se trabalha: Trabalho com xxx | Não trabalho
-Objetivo: Atuar com Engenharia de Software
+Nome: Matheus Barros 
+RA:825139347
+Curso: Engenharia de software 
+Semestre: 3
+Bairro: fazendo da juta 
+Trabalho com matérias não perecíveis
+ Objetivo: atuar em um banco

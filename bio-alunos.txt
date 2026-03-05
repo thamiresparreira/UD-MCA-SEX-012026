@@ -30,21 +30,3 @@ Semestre: 3º Semestre
 Bairro: Vila Antonieta
 Se trabalha: Estagiária de Planejamentos Estratégicos na Ipiranga
 Objetivo: Atuar na area de desenvolvimento e tratamento de dados
------
-
-Nome: Kauê Victor Faria de Jesus 
-RA: 825135270
-Curso: ENgenharia de Software 
-Semestre: 3º
-Bairro: Vila Formosa 
-Se trabalha: Trabalho com Digitalização de Documentos
-Objetivo: Atuar com Engenharia de Software
------
-Nome: Matheus Barros 
-RA:825139347
-Curso: Engenharia de software 
-Semestre: 3
-Bairro: fazendo da juta 
-Trabalho com matérias não perecíveis
- Objetivo: atuar em um banco
-

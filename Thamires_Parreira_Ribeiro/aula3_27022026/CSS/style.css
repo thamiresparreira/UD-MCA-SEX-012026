@@ -1,0 +1,109 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Fundo degradê */
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: linear-gradient(135deg, #2e003e, #7c7781);
+    display: flex;
+    justify-content: center;
+    padding: 40px 0;
+}
+
+/* Container principal */
+.container {
+    background-color: #f4f3f3df;
+    width: 85%;
+    max-width: 900px;
+    border-radius: 18px;
+    padding: 35px;
+    box-shadow: 0 15px 40px rgba(0,0,0,0.25);
+}
+
+/* Header */
+header {
+    margin-bottom: 30px;
+}
+
+/* Layout da parte superior */
+.perfil {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+}
+
+/* Minhaaaa FOTO */
+.foto {
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 5px solid #32164f;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.25);
+}
+
+/* Nome */
+.info h1 {
+    color: #32164f;
+    margin-bottom: 6px;
+    font-size: 28px;
+}
+
+/* Um Lacinho minimalista fofinho */
+.laco {
+    font-size: 20px;
+    margin-left: 6px;
+}
+
+/* Subinformações */
+.info p {
+    color: #555;
+    font-size: 15px;
+}
+
+/* Seções */
+section {
+    margin-top: 25px;
+    padding: 22px;
+    border-left: 6px solid #5c4c67;
+    background-color: #e6e6e6;
+    border-radius: 10px;
+    transition: 0.3s ease;
+}
+
+/* Um efeito suave */
+section:hover {
+    transform: translateY(-3px);
+}
+
+/* Títulos */
+h2 {
+    margin-bottom: 12px;
+    color: #30154f;
+    font-size: 20px;
+}
+
+/* Lista */
+ul {
+    padding-left: 20px;
+}
+
+li {
+    margin-bottom: 6px;
+}
+
+/* Links */
+a {
+    color: #9d4edd;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #5a189a;
+    text-decoration: underline;
+}

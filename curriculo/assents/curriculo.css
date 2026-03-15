@@ -1,0 +1,49 @@
+
+body{
+    font-family: Arial, sans-serif;
+    background:#f7f5f5;
+    padding:20px;
+}
+
+.curriculo{
+    width:850px;
+    margin:auto;
+    background:rgb(255, 253, 253);
+    border:3px solid #999999;
+    padding:30px;
+}
+
+.topo{
+    display:flex;
+    align-items:center;
+    border-bottom:3px solid #fdfdfd;
+    padding-bottom:15px;
+}
+
+.foto{
+    width:130px;
+    height:130px;
+    border-radius:50%;
+    border:3px solid #dfd8d8;
+    margin-right:20px;
+    object-fit:cover;
+}
+
+h1{
+    margin:0;
+}
+
+h2{
+    border-bottom:2px solid #c9c0c0;
+    padding-bottom:5px;
+}
+
+.conteudo{
+    border:2px solid #e2dcdc;
+    padding:15px;
+    margin-top:20px;
+}
+
+ul{
+    padding-left:20px;
+}
